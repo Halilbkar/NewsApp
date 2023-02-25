@@ -1,9 +1,7 @@
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](profilinizin linki)
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/halil-bakar-a4bb26256/)
 
 <h1 align="center">Hi 👋, I'm Halil</h1>
 <h3 align="center">An IOS Developer trying to improve herself</h3>
-
-- 📫 How to reach me **halilbakar.b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
