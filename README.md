@@ -15,12 +15,12 @@ An IOS Developer trying to improve herself.
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="30"/> </a> </p>
 
     
-## Ekran Görüntüleri
+## ScreenShots
 
 ![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
   
-## Ekler
+## Used
 
 MVC Design Pattern, UIKit, Newsapi, TableView, CollectionView
 
